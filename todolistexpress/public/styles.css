@@ -1,0 +1,23 @@
+body{
+  background: red;
+}
+h3{
+  margin-top: 40px;
+  text-align: center;
+
+}
+
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+.message{
+  text-align: center;
+  list-style-type: none;
+
+}
+form{
+  text-align:center;
+}
